@@ -24,7 +24,7 @@ echo $num2;
 $nota = 8;
 if($nota >= 7){
 echo '<p>Passou de ano</p>';
-}else if ($nota > 11){
+}else if ($nota > 10){
     echo '<p>Como você fez isso</p>';
 }else {
     echo '<p>Não passou na prova</p>';
